@@ -10,10 +10,40 @@
                 border-style: solid;
                 border-color:red ;
                 border-width: 5px;
+                position: relative;
+            }
+            .div_child1{
+                margin-top:150px;
+                margin-left:150px; 
+                width: 220px;
+                height: 220px;
+                background:black;
+                border-style: solid;
+                border-color:red ;
+                border-width: 5px;
+                position:relative;
+
+
+            }
+            .div_child2{
+                margin-top:0px;
+                margin-left:0px;
+                margin-bottom: 0; 
+                width: 100px;
+                height: 100px;
+                background:hsl(0, 14%, 95%);
+                border-style: solid;
+                border-color:#0e0303 ;
+                border-width: 5px;
+                position: absolute;
+                
             }
         </style>
     </head>
     <body>
-        <div class="div_parent"></div>
+        <div class="div_parent">
+        <div class="div_child1">
+        <div class="div_child2">
+        </div>
     </body>
 </html>
