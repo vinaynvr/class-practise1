@@ -3,18 +3,43 @@
     background-color: grey;
     width: 100%;
     height: 125px;
-    border: 2px solid black;
 }
 /* header END here_v */
 
 /* main container start from here_v */
 .picture_discription{
     margin-top: 10px;
-    background-color: grey;
     width: 100%;
-    height: 150px;
-    border: 2px solid black;
+    height: 400px;
     display: flex;
     flex-direction: row;
-    
+    justify-content: space-between;
 }
+  /* main container END here_v */
+
+ /* picture start here_v */
+.picture{
+    background-color:grey;
+    width: 70%;
+    height: 100%;
+}
+ /* picture END here_v */
+
+/*discription started here_v  */
+.discription{
+    background-color:grey;
+    width: 28%;
+    height:100%;
+}
+/*discription END here_v  */
+
+/* bottom_footer start here_v */
+.bottom_footer{
+    margin-top: 10px;
+    background-color: grey;
+    width: 100%;
+    height: 100px;
+}
+/* bottom_footer END here_v */
+
+
