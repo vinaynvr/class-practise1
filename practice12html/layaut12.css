@@ -1,0 +1,84 @@
+/* header started from here_v */
+.header_container{
+    margin-top:10px;
+    width: 100%;
+    height: 125px;
+    background-color: grey;
+}
+/* header END from here_v */
+
+/* <!-- main container started from here_v --> */
+.main_container{
+    margin-top: 10px;
+    width: 100%;
+    height: 500px;
+    /* background-color: grey; */
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+/* <!-- main container started from here_v --> */
+
+
+/* picture1 started from here_v */
+.picture1{
+    width: 28%;
+    height: 100%;
+    background-color:grey;
+}
+/* picture1 END here_v */
+
+
+/*picture2 started from here_v*/
+.picture2{
+    width: 70%;
+    height: 100%;
+    background-color: grey;
+}
+/*picture2 END here_v*/
+
+/* video container started here_v */
+.video_container{
+    margin-top: 15px;
+    width: 100%;
+    height: 175px;
+    /* background-color: grey; */
+    display:flex ;
+    justify-content:space-evenly;
+    flex-direction: row;
+}
+/* video container END here_v */
+
+/* video1 started here_v */
+.video1{
+    width: 31%;
+    height: 100%;
+    background-color: grey;
+}
+/* video1 END here_v */
+
+/* video2 started here_v */
+.video2{
+    width: 31%;
+    height: 100%;
+    background-color: grey;
+}
+/* video2 END here_v */
+
+/* video3 started from here_v*/
+.video3{
+    width: 31%;
+    height: 100%;
+    background-color: grey;
+
+}
+/* video3 END here_v*/
+
+/* footer started here_v */
+.footer{
+    margin-top: 15px;
+    width: 100%;
+    height: 125px;
+    background-color: gray;
+}
+/* footer END here_v */
