@@ -1,0 +1,102 @@
+/* header started from here_v */
+.header{
+    margin-top: 10px;
+    width: 100%;
+    height: 125px;
+    background-color: gray;
+}
+/* header END from here_v */
+
+/* main started from here_v */
+.main_discription1{
+    margin-top: 10px;
+    width: 100%;
+    height: 500px;
+    background-color: gray;
+}
+/* main END from here_v */
+
+/* course container started from here_v */
+.course_container{
+    margin-top: 10px;
+    width: 100%;
+    height: 222px;
+    /* background-color: gray; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+/* course container END from here_v */
+
+/* course1 started from here_v */
+.course1{
+    width: 32%;
+    height: 100%;
+    background-color: rgb(119, 116, 116);
+}
+/* course2 END from here_v */
+
+/* course2 started from here_v */
+.course2{
+    width: 32%;
+    height: 100%;
+    background-color: rgb(114, 111, 111);
+}
+/* course2 END here_v */
+
+
+/* course3 started from here_v */
+.course3{
+    width: 32%;
+    height: 100%;
+    background-color: rgb(124, 119, 119);
+}
+/* course3 END here_v */
+
+/* main_conatiner2 started from here_v */
+.main_conatiner2{
+    margin-top: 10px;
+    width: 100%;
+    height: 500;
+    background-color: grey;
+}
+/* main_conatiner2 END here_v */
+
+
+/* video_container started here_v */
+.video_container{
+    width: 30%;
+    height: 100%;
+    /* background-color: rgb(150, 139, 139); */
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+}
+/* video_container END here_v */
+
+
+/* video1 started here_v */
+.video1{
+    width: 100%;
+    height: 48%;
+    background-color: rgb(204, 31, 31);
+}
+/*  video1 END here_v */
+
+/* video2 started here_v */
+.video2{
+    width: 100%;
+    height: 49%;
+    background-color: rgb(25, 187, 93);
+}
+/* video2 END here_v */
+
+
+/* main_discription2 started here_v */
+.main_discription2{
+    width: 70%;
+    height: 100%;
+    background-color: grey;
+}
+
+/* main_discription2 END here_v */
