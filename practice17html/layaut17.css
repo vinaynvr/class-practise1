@@ -1,0 +1,11 @@
+/* header started from here_v */
+.header_box{
+    width: 100%;
+    height: 100px;
+    background-color: #9b05ff;
+    flex-direction: row;
+    display: flex;
+ }
+/* header END here_v*/
+
+/*  */
