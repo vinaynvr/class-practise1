@@ -1,11 +1,146 @@
 /* header started from here_v */
-.header_box{
+.header_box1{
+    width: 100%;
+    height: 100px;
+    background-color: #940dee;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+ }
+/* header END here_v*/
+
+/* header1 start here_v */
+.header1{
+    width: 20%;
+    height: 60px;
+    margin-left: 20px;
+    background-color: white;
+    align-items: center;
+}
+/* header END here_v */
+
+/* header2 started from here_v */
+.header2{
+    width: 60%;
+    height: 60px;
+    margin-left: 20px;
+    background-color: white;
+}
+/* header2 END here_v */
+
+/* header3 started from here_v */
+.header3{
+    width: 20%;
+    height: 60px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: white;
+}
+/* header3 END here_v */
+
+/* header_box2 started from here_v*/
+.header_box2{
+    margin-top: 5%;
     width: 100%;
     height: 100px;
     background-color: #9b05ff;
     flex-direction: row;
     display: flex;
- }
-/* header END here_v*/
+    align-items: center;
+}
+/* header_box2 END here_v */
 
-/*  */
+/* header_bar1 started from here_v */
+.header_bar1{
+    height: 60px;
+    width: 180px;
+    margin-left: 10px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-radius: 20px;
+}
+/* header_bar1 END here_v */
+
+/* logo_picture started here_v */
+.logo_picture{
+    height: auto;
+    width: 100%;
+    padding: 20px;
+    overflow: hidden;
+    border-radius: 20px;
+}
+/* logo_picture END here_v */
+
+/* header_bar2 started from here_v */
+.header_bar2{
+    width: 70%;
+    height: 60%;
+    height: auto;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+/* header_bar2 END here_v */
+
+
+/* navbar started here_v */
+.nav_bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+}
+/* navbar END here_v */
+
+/* link started here_v */
+.link{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #111010;
+    font-weight: 600;
+}
+/* link END here_v */
+
+
+/* header bar3 started here_v */
+.header_bar3{
+    height: 60px;
+    width: 180px;
+    margin-right: 10px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+/* header bar3 END here_v */
+
+/* nav login started here_v */
+.nav_log_in_button{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+/* nav login END here_v */
+
+/* login button started here_v */
+#log_in_button{
+    display: flex;
+}
+/* login button END here_v */
+
+/* singup button here_v */
+#singup_button{
+    background-color: white;
+    align-items: center;
+    color: #9b05ff;
+    padding: 8px 20px 8px 20px;
+    border-radius: 20px;
+}
+
+
+/* singup button END here_v */
