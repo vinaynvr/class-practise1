@@ -40,8 +40,8 @@
 
 /* header_box2 started from here_v*/
 .header_box2{
-    margin-top: 5%;
-    width: 100%;
+    /* margin-top: 5%; */
+    /* width: 100%; */
     height: 100px;
     background-color: #9b05ff;
     flex-direction: row;
